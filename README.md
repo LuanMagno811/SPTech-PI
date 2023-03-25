@@ -1,1 +1,1 @@
-# SPTech-PI
+# SPTech
